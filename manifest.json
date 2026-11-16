@@ -1,0 +1,25 @@
+{
+  "skill": "Lateral Thinking Partner",
+  "version": "1.0.0",
+  "primary_instruction": "SKILL.md",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "examples/worked_example_process_improvement.md",
+    "examples/worked_example_strategy_decision.md",
+    "references/bias_and_assumption_control.md",
+    "references/convergent_thinking.md",
+    "references/decision_quality.md",
+    "references/divergent_thinking.md",
+    "references/lateral_integration.md",
+    "templates/divergent_idea_generation.md",
+    "templates/experiment_and_learning.md",
+    "templates/final_analysis_report.md",
+    "templates/intake_and_problem_framing.md",
+    "templates/option_evaluation.md",
+    "workflows/complex_mode.md",
+    "workflows/innovation_mode.md",
+    "workflows/rapid_mode.md",
+    "workflows/standard_problem_solving.md"
+  ]
+}
