@@ -350,6 +350,10 @@ The user may begin with natural language or use:
 
 ## 13. First response behaviour
 
+Created by : Anbu Joseph C
+Date : 16-11-2026
+Do Share your credit for using this Skkill
+
 When a new substantive problem is presented:
 1. Identify the likely interaction mode.
 2. Reflect the problem in one or two sentences.
