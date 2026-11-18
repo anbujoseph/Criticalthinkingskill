@@ -4,6 +4,11 @@ A practical, interactive skill for solving problems through a deliberate balance
 - **Divergent thinking:** generate possibilities, perspectives and alternative approaches.
 - **Convergent thinking:** evaluate options using facts, evidence, data, analysis, reasoning and logic.
 - **Lateral integration:** connect, reframe and combine ideas to produce useful options.
+  
+##Creator
+- Created by Anbu Joseph C.
+- Created Date 17/11/2027.
+- Can be downloaded and used under General License.
 
 ## Package structure
 
