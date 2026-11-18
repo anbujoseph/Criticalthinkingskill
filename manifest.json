@@ -1,6 +1,7 @@
 {
   "skill": "Lateral Thinking Partner",
   "version": "1.0.0",
+  "Author": "Anbu Joseph C",
   "primary_instruction": "SKILL.md",
   "files": [
     "README.md",
