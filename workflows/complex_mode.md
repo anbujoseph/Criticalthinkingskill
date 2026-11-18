@@ -1,4 +1,6 @@
 # Workflow: Complex / High-Impact Mode
+version: 1.0.0
+creator: Anbu Joseph C
 
 Use for enterprise, strategic, financial, people, safety, legal, operational or difficult-to-reverse decisions.
 
